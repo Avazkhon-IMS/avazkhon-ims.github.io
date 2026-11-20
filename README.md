@@ -27,7 +27,7 @@ Most energy devices are limited by their interfaces, the few ångströms where t
 - **MXene/rGO binding.** Termination switches the binding of Ti₃C₂ to rGO between chemisorption on the bare surface (**1.90 J·m⁻²** at 1.92 Å) and dispersion binding on the terminated surfaces (0.96 and 1.18 J·m⁻²). On the bare surface, oxygen atoms move from rGO to the carbide.
 - **Tunable work function.** The work function of rGO/Ti₃C₂Tₓ can be tuned over about **1.9 eV** (3.93 to 5.86 eV) by changing a single atomic layer, and the stack absorbs 57 to 69 % less visible light than the sum of its layers.
 
-**Methods:** Quantum ESPRESSO  PBE+D3(BJ)  GGA+U  Maximally Localized Wannier Functions  dipole correction  UBER fit  charge-density difference
+**Methods:** Quantum ESPRESSO;  PBE+D3(BJ);  GGA+U;  Maximally Localized Wannier Functions;  dipole correction;  UBER fit;  charge-density difference
 
 ---
 
